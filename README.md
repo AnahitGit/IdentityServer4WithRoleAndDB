@@ -1,6 +1,6 @@
 Steps
 
-1.Create database with name
+1.Create database with name CompEmpIdentityServer
 
 2 Create Users table by script
         USE [CompEmpIdentityServer]
